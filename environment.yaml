@@ -1,0 +1,20 @@
+name: ireland-forest-carbon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - geopandas
+  - rasterio
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - joblib
+  - numpy
+  - pandas
+  - openpyxl
+  - matplotlib
+  - ipywidgets
+  - tqdm
+  - pytest
+  - imageio
