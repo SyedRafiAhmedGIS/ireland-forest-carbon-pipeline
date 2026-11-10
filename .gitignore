@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tif
+*.tiff
+data/rasters/
+output/
+.DS_Store
+.venv/
